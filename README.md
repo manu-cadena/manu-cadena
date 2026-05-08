@@ -25,7 +25,7 @@ const manu = {
   techStack: {
     frontend:   ["Next.js", "React", "TypeScript", "Tailwind CSS", "Wagmi", "RainbowKit"],
     backend:    ["Node.js", "Express.js", "PostgreSQL", "Prisma", "WebSocket"],
-    blockchain: ["Solidity", "Foundry", "Hardhat", "Viem", "Ethers.js", "The Graph", "Chainlink", "OpenZeppelin"],
+    blockchain: ["Solidity", "Foundry", "Hardhat", "Ethers.js", "The Graph", "Chainlink", "OpenZeppelin"],
     infra:      ["Docker", "Kubernetes", "Skaffold", "CI/CD", "Linux"],
   },
 
