@@ -23,7 +23,7 @@ const manu = {
   shipping: ["DeFi Platforms", "DAO Infrastructure", "Token Sale Systems"],
 
   techStack: {
-    ai:         ["OpenAI API", "Claude API", "LangChain", "RAG", "Ollama"],
+    ai:         ["OpenAI API", "Claude API", "RAG", "Ollama"],
     frontend:   ["Next.js", "React", "TypeScript", "Tailwind CSS", "Wagmi", "RainbowKit"],
     backend:    ["Node.js", "Express.js", "PostgreSQL", "Prisma", "WebSocket"],
     blockchain: ["Solidity", "Foundry", "Hardhat", "Ethers.js", "The Graph", "Chainlink", "OpenZeppelin"],
@@ -37,14 +37,13 @@ const manu = {
 ---
 
 <div align="center">
-
+  
 ### Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logoColor=white)
-![Wagmi](https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 
