@@ -23,6 +23,7 @@ const manu = {
   shipping: ["DeFi Platforms", "DAO Infrastructure", "Token Sale Systems"],
 
   techStack: {
+    ai:         ["OpenAI API", "Claude API", "LangChain", "RAG", "Ollama"],
     frontend:   ["Next.js", "React", "TypeScript", "Tailwind CSS", "Wagmi", "RainbowKit"],
     backend:    ["Node.js", "Express.js", "PostgreSQL", "Prisma", "WebSocket"],
     blockchain: ["Solidity", "Foundry", "Hardhat", "Ethers.js", "The Graph", "Chainlink", "OpenZeppelin"],
