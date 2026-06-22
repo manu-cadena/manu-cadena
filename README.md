@@ -11,7 +11,7 @@
         Fullstack Developer building at the intersection of AI and decentralized infrastructure
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=FulStack+Developer;AI+%26+Web3+Builder;LLM+Pipelines+%26+Smart+Contracts;Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=FullStack+Developer;AI+%26+Web3+Builder;LLM+Pipelines+%26+Smart+Contracts;Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
 
 </div>
 
