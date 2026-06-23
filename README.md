@@ -28,6 +28,7 @@ const manu = {
     backend:    ["Node.js", "Express.js", "PostgreSQL", "Prisma", "WebSocket"],
     blockchain: ["Solidity", "Foundry", "Hardhat", "Ethers.js", "The Graph", "Chainlink", "OpenZeppelin"],
     infra:      ["Docker", "Kubernetes", "Skaffold", "CI/CD", "Linux"],
+    learning:   ["Rust", "Solana", "Arbitrum Stylus"],
   },
 
   funFact: "I built a full cryptocurrency from scratch. Blockchain, P2P networking, mining and all."
@@ -64,6 +65,7 @@ const manu = {
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Cloud & DevOps
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
